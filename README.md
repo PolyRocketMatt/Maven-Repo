@@ -20,5 +20,5 @@ This repository hosts the deployment all my maven projects.
 
 Currently available projects:
 
-- Peak - Procedural library
-- GAME - Mathematical library
+- Peak - Procedural environment algorithms for Kotlin
+- GAME - Geometric and mathematical extension library
