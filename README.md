@@ -1,7 +1,7 @@
 <div align="center">
     <img
         src="img/monkey.jpg"
-        width="460"
+        width="200"
     />
 </div>
 
