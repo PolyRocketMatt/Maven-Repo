@@ -1,6 +1,6 @@
 <div align="center">
     <img
-        src="img/monkey.jpg"
+        src="img/monkey.png"
         width="200"
     />
 </div>
@@ -20,5 +20,7 @@ This repository hosts the deployment all my maven projects.
 
 Currently available projects:
 
-- Peak - Procedural environment algorithms for Kotlin
 - GAME - Geometric and mathematical extension library
+- PolyFile - File utilities & custom logger
+- SpigotUtils - Utilities for Spigot plugins
+- KotlinBridge - Jar that contains the Kotlin standard library (dependency for Spigot plugins written in Kotlin)
