@@ -1,6 +1,6 @@
 <div align="center">
     <img
-        src="img/monkey_2.png"
+        src="img/monkey_bad.png"
         width="200"
     />
 </div>
